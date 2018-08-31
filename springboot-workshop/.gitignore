@@ -2,6 +2,7 @@
 !.mvn/wrapper/maven-wrapper.jar
 mvnw
 *.cmd
+.DS_store
 
 ### STS ###
 .apt_generated
